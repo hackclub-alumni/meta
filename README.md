@@ -28,7 +28,7 @@ members of the society:
 
 | Name and GitHub username | Slack user ID | Email/socials/website |
 | --- | --- | --- |
-| Andrei Jiroh Halili (`ajhalili2006`) | TBD | <https://andreijiroh.dev/contact> |
+| Andrei Jiroh Halili (`ajhalili2006`) | [`U07CAPBB9B5`](https://hackclub.slack.com/team/U07CAPBB9B5) | <https://andreijiroh.dev/contact> |
 
 While the society itself does not have its own HCB organization due to not being a Hack Club HQ-sanctioned project or
 have the official blessing from the Community and Conduct team yet, to accept donations for its IRL activities, and then
