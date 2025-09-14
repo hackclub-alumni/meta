@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: hackclub-alumni/.github
-          token: ${{steps.dotenvx.outputs.GH_PAT_SCOPED_BOT_TOKEN}}
+          token: ${{fromJson(steps.dotenvx.outputs.DOTENV_RESULT).GH_PAT_SCOPED_BOT_TOKEN}}
           path: dothub
           ref: main
           fetch-depth: '0'
