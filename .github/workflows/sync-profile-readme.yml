@@ -1,0 +1,36 @@
+name: Sync repo README to profile README
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: andreijiroh-dev/dotenvx-action/remote-loader@main
+        id: dotenvx
+        with:
+          # TODO: Migrate to hackclub-alumni fork soon
+          url: "https://raw.githubusercontent.com/recaptime-dev/dotenvx-secretstore/refs/heads/main/projects/hackclub-alumni/.env.ci"
+          key: ${{secrets.INFRAOPS_DOTENV_PRIVATE_KEY_CI}}
+      - uses: actions/checkout@v4
+        with:
+          repository: hackclub-alumni/.github
+          token: ${{steps.dotenvx.outputs.GH_PAT_SCOPED_BOT_TOKEN}}
+          path: dothub
+          ref: main
+          fetch-depth: '0'
+      - name: Copy changes from this repo's README to .github/profile/README.md
+        run: |
+          mkdir dothub/profile -pv || true
+          cp README.md dothub/profile/README.md
+      - name: Commit and push
+        run: |
+          cd dothub
+          git config user.email "git@recaptime.dev" && git config user.name "Recap Time Bot"
+          git commit --signoff -m "docs: update profile readme" -m "Commit: https://github.com/hackclub-alumni/meta/commit/${{github.sha}}" -a
+          git push
