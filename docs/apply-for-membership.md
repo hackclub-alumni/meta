@@ -19,6 +19,9 @@ CoC strikes in the past 90 days
 
 1. Join the public `#alumni` channel in Hack Club Slack.
 2. Run the `Join the alumni society's private channel` workflow in the featured workflow.
+
+![that featured workflow in question](https://hc-cdn.hel1.your-objectstorage.com/s/v3/381cea766733f04d1b41e0b2bf5c49f2208272d9_screenshot_20250914-113244.jpg)
+
 3. Follow the instructions sent via DMs from the workflow. After that, you will be admitted via the Alumni Society Ops Slack bot once approved by a fellow alum.
 4. In case of rejection
 

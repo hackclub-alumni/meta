@@ -1,5 +1,17 @@
 blank_issues_enabled: true
 contact_links:
-- name: Looking for the Community Team at Hack Club?
+- name: GitHub Discussions for community chat, suggestions and meta threads
+  url: https://github.com/orgs/hackclub-alumni/discussions
+  about: |
+    The meta issue tracker is for requests and issues relating to the Alumni Society as
+    a whole (e.g. access requests, infra, etc.). Use the discussions tab or chime at #alumni
+    Hack Club Slack channel for anything else.
+- name: Hack Club Slack for community chat
+  url: https://hackclub.slack.com/archives/C036FJX06HK
+  about: |
+    The meta issue tracker is for requests and issues relating to the Alumni Society as
+    a whole (e.g. access requests, infra, etc.). Use the discussions tab or chime at #alumni
+    Hack Club Slack channel for anything else.
+- name: Looking for the Community Team at Hack Club, specifically the CoC Working Group?
   url: https://hackclub.com/team/
   about: Go to the team directory at the Hack Club website for the list. The Alumni Society are not affliated with them in any way.

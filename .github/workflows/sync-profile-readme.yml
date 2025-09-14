@@ -36,5 +36,5 @@ jobs:
           git config user.email "git@recaptime.dev" && git config user.name "Recap Time Bot"
           git commit --signoff -m "docs: update profile readme" \
             -m "Commit: https://github.com/hackclub-alumni/meta/commit/${{github.sha}}" \
-            -m "Snapshot: https://github.com/hackclub-alumni/meta/blob/${{github.sha}}/main"
+            -m "Snapshot: https://github.com/hackclub-alumni/meta/blob/${{github.sha}}/README.md"
           git push

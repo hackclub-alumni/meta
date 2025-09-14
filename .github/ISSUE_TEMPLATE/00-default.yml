@@ -1,0 +1,15 @@
+name: General requests
+description: Need to file a ticket but can't see the form you need? Use this general purpose ticket form for inquiries.
+assignees:
+- ajhalili2006
+body:
+  - type: textarea
+    attributes:
+      label: About this ticket
+      description: Describe your problem/request here.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Prior art / additional resources
+      description: Links to related issues, chat threads, etc.
