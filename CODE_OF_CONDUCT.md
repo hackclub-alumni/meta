@@ -1,6 +1,6 @@
 # Code of Conduct
 
-**Last updated**: December 16, 2021 ([upstream](https://github.com/hackclub/.github/commit/0b25214a1ad756e09ae5c332f6b0a1794b3800da)), September 7, 2025 (Alumni Society specifics)
+**Last updated**: December 16, 2021 ([upstream](https://github.com/hackclub/.github/commit/0b25214a1ad756e09ae5c332f6b0a1794b3800da)), September 14, 2025 (Alumni Society specifics)
 
 ## TL;DR
 
@@ -89,11 +89,17 @@ Please understand that we will not restrict your ability to contact the [Code of
 
 The Working Group is responsible for handling conduct-related issues. Their mission is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. For all [projects related to and/or maintained by Hack Club HQ](#where-does-the-code-of-conduct-apply), the Working Group is made up of the [Hack Club staff team](https://hackclub.com/team/) and [Community team](https://app.slack.com/client/T0266FRGM/C01D7AHKMPF). The specific team member(s) handling each violation depend on the location and nature of the issue.
 
+For projects related to and/or maintained by the Alumni Society outside of official Hack Club spaces, the maintainers listed on [the meta repository README](https://github.com/hackclub-alumni/meta/blob/main/README.md#imprint--accountability) will be handling each violations.
+
 ## Reporting Issues
 
 If you encounter a conduct-related issue, you should report it to the Working Group using the process described below. **Do not** post about the issue publicly or try to rally sentiment against a particular individual or group.
 
-- Mail <conduct@hackclub.com>
+- For Alumni Society projects OUTSIDE Hack Club spaces (e.g. Reddit, GitHub, daily.dev, etc.):
+  - Reach out to an Alumni Society maintainer, [as listed in the imprint](https://github.com/hackclub-alumni/meta/blob/main/README.md#imprint--accountability) first. It will be raised the issue with the rest of maintainers as a whole, preserving the privacy of the reporter (if desired).
+  - Should you choose to remain anonymous then you will not able to be notified you of the outcome of your report.
+  - In case of spillovers between spaces, it may be necessary to forward the report to respective communities' moderators and maintainers (in case of Hack Club, it will be shared with the Working Group).
+- Within Hack Club Slack: Mail <conduct@hackclub.com>
   - Your message will reach the Working Group.
   - Reports are confidential within the Working Group.
   - Should you choose to remain anonymous then the Working Group cannot notify you of the outcome of your report.
@@ -114,7 +120,7 @@ If you encounter a conduct-related issue, you should report it to the Working Gr
 
 **Note that the goal of the Code of Conduct and the Working Group is to resolve conflicts in the most harmonious way possible.** We hope that in most cases issues may be resolved through polite discussion and mutual agreement. Bannings and other forceful measures are to be employed only as a last resort.
 
-Changes to the Code of Conduct should be proposed by [creating an issue](https://github.com/hackclub/hackclub/issues/new) or making a pull request to this document.
+Changes to the Code of Conduct should be proposed by [creating an issue](https://github.com/hackclub-alumni/meta/issues/new) or making a pull request to this document.
 
 ## Acknowledgments
 
