@@ -1,6 +1,6 @@
 # Code of Conduct
 
-**Last updated**: December 16, 2021 ([upstream](https://github.com/hackclub/.github/commit/0b25214a1ad756e09ae5c332f6b0a1794b3800da)), September 14, 2025 (Alumni Society specifics)
+**Last updated**: December 16, 2021 ([upstream](https://github.com/hackclub/.github/commit/0b25214a1ad756e09ae5c332f6b0a1794b3800da)), September 16, 2025 (Alumni Society specifics)
 
 ## TL;DR
 
@@ -72,7 +72,7 @@ These actions are explicitly forbidden in Hack Club spaces:
 
 ## Moderation & Enforcement
 
-> ![NOTE]
+> [!NOTE]
 > If the misbehavior happens outside of Hack Club Slack, please contact [an Alumni Society maintainer](https://github.com/hackclub-alumni/meta/blob/main/README.md#imprint--accountability) directly first.
 
 Please understand that speech and actions have consequences, and unacceptable behavior will not be tolerated. When you participate in [areas where the code of conduct applies](#where-does-the-code-of-conduct-apply), you should act in the spirit of the "Hacker values". If you conduct yourself in a way that is explicitly forbidden by the Code of Conduct, you will be warned and asked to stop, and your messages may be removed by community moderators. Repeated offenses may result in a temporary or permanent ban from the community.
