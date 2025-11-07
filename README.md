@@ -18,7 +18,12 @@ Just run the featured workflow in the public channel or use the `/alumni onboard
 * daily.dev: https://app.daily.dev/squads/hackclub
 * BARQ! (for furries in HC Slack): https://barq.app/c/xVVmUo8 or search for Hack Club in groups
 * Reddit: https://www.reddit.com/r/Hack_Club
-* GitHub: https://github.com/hackclub-alumni (also https://git.hackclub.app/alumni)
+* Code forges:
+    * GitHub: https://github.com/hackclub-alumni
+    * GitLab SaaS: https://gitlab.com/hackclub-community/alumni
+    * Nest Forgejo: https://git.hackclub.app/alumni
+* Fediverse (via Hackstodon, hosted on Nest): https://social.dino.icu/@alumni
+* ATmosphere (via Bluesky Social): https://bsky.app/profile/alumni.hackclub.community
 * Zed Channel: https://zed.dev/channel/hackclub-25176 (see also the alumni subchannel)
 
 ## Imprint / Accountability
