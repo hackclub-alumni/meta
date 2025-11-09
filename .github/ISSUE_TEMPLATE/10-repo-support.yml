@@ -1,0 +1,48 @@
+name: Repo support
+description: Need help managing your project/repository in the Alumni Society? Use this form to request support.
+title: "[repo-support] "
+assignees:
+  - ajhalili2006
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Repository Support Request
+
+        Please provide the necessary details below to help us assist you with your repository support needs.
+
+        ### Available support types
+
+        * Transfer repository to/from Hack Club Alumni Society organization - Requests for repo transfers to and from the Alumni Society's GitHub/Nest Forgejo organization and/or GitLab SaaS subgroup.
+        * CI/CD Related Support - Managing secrets for GitHub Actions and GitLab CI, setting up self-hosted runners, and other CI related requests.
+        * Repo Access Management - Requests for adding/removing collaborators, managing permissions and third-party integration access.
+        * Other support requests - Any other repository/organization-related support not covered above.
+  - type: input
+    id: repo
+    attributes:
+      label: Link to repository
+      description: |
+        Moving to @hackclub-alumni organization? Link the repository's original place here first.
+        Otherwise, link the repository you need help with.
+      placeholder: https://github.com/hackclub-alumni/...
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Type of support needed
+      description: Select the type of support you need for the repository.
+      options:
+        - Transfer repository to/from Hack Club Alumni Society organization
+        - CI/CD Related Support
+        - Repo Access Management
+        - Other support requests
+  - type: textarea
+    attributes:
+      label: About this ticket
+      description: Describe your problem/request here.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Prior art / additional resources
+      description: Links to related issues, chat threads, etc.
