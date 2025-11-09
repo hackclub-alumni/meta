@@ -11,4 +11,5 @@
 
 - [Profile README](../README.md)
 - [Code of conduct](../CODE_OF_CONDUCT.md)
+- [Meta issue tracker](./meta-issue-trackers.md)
 - [Maintainers](./maintainers.md)

@@ -2,13 +2,13 @@
 
 Applying to join the Alumni Society is easy and straight-forward. Just fill out the info directory form, wait for your entry to be reviewed and you are good to go.
 
-## Requirements
+## Requirements / Eligibility
 
 * A Hack Clubber with a non-deactivated Hack Club Slack account and no active
 CoC strikes in the past 90 days
   * In the event of a permanent ban due to CoC violations or fraud/abuse, 
   * You don't need to be verified as an student before applying, although it is best to do so while you are still eligible.
-  * If your account is deactivated for reasons other those stated earlier, you may still apply but you need to [use this form instead].
+  * If your account is deactivated for reasons other those stated earlier, you may still apply but you need to [use this form instead](#via-fillout).
 * An account on any of these code forges with 2FA enabled:
   * [Nest's Forgejo instance](https://git.hackclub.app)
   * [GitHub](https://github.com)

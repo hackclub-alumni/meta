@@ -4,7 +4,7 @@ We use [`dotenvx`](https://dotenvx.com) CLI to easily manage project level and o
 
 ## Centralized secret store repo
 
-The Alumni Society utilizes [Recap Time Squad](https://recaptime.dev)'s [centralized dotenvx-based secret store setup](https://github.com/recaptime-dev/dotenvx-secretstore), under the [`alumni-society/main` branch of its own fork](https://github.com/hackclub-alumni/dotenvx-secretstore/tree/alumni-society/main/projects/hackclub-alumni).
+The Alumni Society utilizes [Recap Time Squad](https://recaptime.dev)'s [centralized dotenvx-based secret store setup](https://github.com/recaptime-dev/dotenvx-secretstore), under the [`alumni-society/main` branch of its own fork](https://github.com/hackclub-alumni/dotenvx-secretstore/tree/alumni-society/main/projects/hackclub-alumni), for Git-based SecretOps.
 
 [The included documentation](https://github.com/recaptime-dev/dotenvx-secretstore/tree/main/docs) has details from setting up to using them within the CI and more.
 

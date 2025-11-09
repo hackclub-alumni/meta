@@ -21,4 +21,8 @@ Responsibilities include, but are not limited to:
 * Moderating community spaces and interactions outside Hack Club's official spaces.
 * Organizing and facilitating events, meetups, and networking opportunities for alums, either virtually or in-person.
 
-## Joining the Maintainers Team
+## Joining/leaving the Maintainers Team
+
+You can reach out to the current maintainers via Slack DMs (or their contact details) as listed above or [in the meta issue tracker](./meta-issue-trackers.md) to express your interest. In some occassion, we may reach out to fellow alums and the wider community to invite them based on their contributions and engagement in the Hack Club community.
+
+You can also leave the maintainers team at any time by notifying the other maintainers if you can't handle your responsibilities due to other commitments or maintainer burnout. We encourage open communication and transparency within the team to ensure smooth transitions.
