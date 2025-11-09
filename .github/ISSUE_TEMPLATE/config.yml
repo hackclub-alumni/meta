@@ -1,5 +1,11 @@
 blank_issues_enabled: true
 contact_links:
+- name: Meta issue tracker on GitLab SaaS / GitLab.com
+  url: https://gitlab.com/hackclub-community/alumni/meta/-/issues
+  about: |
+    For repository support on GitLab.com as well as requests that requires to file
+    requests with confidentially mode enabled, you can file an issue at our GitLab.com
+    mirror of the meta repository.
 - name: GitHub Discussions for community chat, suggestions and meta threads
   url: https://github.com/orgs/hackclub-alumni/discussions
   about: |
