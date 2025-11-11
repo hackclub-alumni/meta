@@ -1,10 +1,16 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
 - name: Meta issue tracker on GitLab SaaS / GitLab.com
   url: https://gitlab.com/hackclub-community/alumni/meta/-/issues
   about: |
     For repository support on GitLab.com as well as requests that requires to file
     requests with confidentially mode enabled, you can file an issue at our GitLab.com
+    mirror of the meta repository.
+- name: Meta issue tracker on Nest Forgejo
+  url: https://git.hackclub.app/alumni/meta/issues
+  about: |
+    For repository support on Nest Forgejo as well as requests that requires to file
+    requests with confidentially mode enabled, you can file an issue at our Nest Forgejo
     mirror of the meta repository.
 - name: GitHub Discussions for community chat, suggestions and meta threads
   url: https://github.com/orgs/hackclub-alumni/discussions
@@ -18,6 +24,11 @@ contact_links:
     The meta issue tracker is for requests and issues relating to the Alumni Society as
     a whole (e.g. access requests, infra, etc.). Use the discussions tab or chime at #alumni
     Hack Club Slack channel for anything else.
+- name: DNS records for alumni.hackclub.community
+  url: https://github.com/hackclub/dns
+  about: |
+    DNS records are managed at the hackclub/dns repository. Please notify the Alumni Society
+    maintainers when making DNS records changes at alumni.hackclub.community.
 - name: Looking for the Community Team at Hack Club, specifically the CoC Working Group?
   url: https://hackclub.com/team/
   about: Go to the team directory at the Hack Club website for the list. The Alumni Society are not affliated with them in any way.
