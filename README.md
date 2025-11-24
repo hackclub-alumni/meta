@@ -13,8 +13,12 @@ events and the fiscal sponsorship program to more people.
 Just run the featured workflow in the public channel or use the `/alumni onboard` command from Alumni Society Ops Bot
 (coming soon 2026) to get started.
 
-**Elsewhere**: You can find your favorite alumni people across the internet through the following:
+**Elsewhere**: You can find your favorite alumni people (and fellow Hack Clubbers) across the internet through the following:
 
+> [!WARNING]
+> These are maintained by community members and not managed by the Fire Department / Conduct Working Group nor affliated with HQ, we just linked them here for convenience.
+
+* Discord: https://discord.gg/ckAa2YvAsF
 * daily.dev: https://app.daily.dev/squads/hackclub
 * BARQ! (for furries in HC Slack): https://barq.app/c/xVVmUo8 or search for Hack Club in groups
 * Reddit: https://www.reddit.com/r/Hack_Club
@@ -23,7 +27,7 @@ Just run the featured workflow in the public channel or use the `/alumni onboard
     * GitLab SaaS: https://gitlab.com/hackclub-community/alumni
     * Nest Forgejo: https://git.hackclub.app/alumni
 * Fediverse (via Hackstodon, hosted on Nest): https://social.dino.icu/@alumni
-* ATmosphere (via Bluesky Social): https://bsky.app/profile/alumni.hackclub.community
+* ATmosphere (via Bluesky Social): https://bsky.app/profile/alumni.hackclub.community (or just search `@alumni.hackclub.community`)
 * Zed Channel: https://zed.dev/channel/hackclub-25176 (see also the alumni subchannel)
 
 ## Imprint / Accountability
